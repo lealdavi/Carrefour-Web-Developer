@@ -1,2 +1,2 @@
 # PrimeiroRepositorio-DIO
-Um repositório para o desafio 01 do curso Carrefour Web Developer
+Repositório criado para armazenar anotações e futuros exercícios do bootcamp "Carrefour Web Developer" da DIO.
