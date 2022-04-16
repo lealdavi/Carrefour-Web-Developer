@@ -54,4 +54,84 @@ TCP
 
 - Aplicativo de mensagens de texto
 
+## Ports
+
+São as "portinhas" por onde sairão e chegarão dados.
+
+- 20 - FTP
+
+- 22 - SSH
+
+- 25 - SMTP
+
+- 53 - DNS
+
+- 80 - HTTP
+
+- 443 - HTTPS
+
+## Stacks
+
+### **O que são**:
+
+- Pilhas de tecnologia
+
+- Conjunto de softwares necessários e suficientes para executar um aplicativo/programa
+
+- Linguagens de programação
+
+- Ambientes e ferramentas de interação com o app/software
+
+- Capacidade e limitação de performance
+
+- Pontos fortes e fracos do app/software
+
+### **Por que são tão importantes?**
+
+- Os líderes de projetos precisam das informações das equipes de desenvolvimento
+
+- Os desenvolvedores precisam saber das limitações e capacidades das ferramentas e ambientes que têm disponíveis
+
+- Sistemas, bancos de dados, linguagens de programação, protocolos de comunicação
+
+- Estratégias de negócios
+
+- Maturidade
+
+- Contratações, planos de mitigações de riscos, aumento da capacidade, uso dos dados
+
+### Front-End | Back-end | Fullstack
+
+**Front-End**: Trabalham com interface, UI e UX, e ficam com a parte da frente do projeto. Irão trabalhar majoritariamente com HTML, CSS e JS
+
+**Back-end**: Trabalham com servidores, banco de dados, validações, e ficam com a parte de trás do projeto. Irão trabalhar com uma infinidade de tecnologias a depender do projeto, dentre as quais podemos citar MySQL, PHP, Java, Node.js, dentre outras.
+
+**Fullstack**: Trabalham em todas as camadas das tecnologias de desenvolvimento/execução de um app ou software
+
+## Principais linguagens
+
+- HTML
+
+- CSS
+
+- JavaScript (jQuery, AJAX, diversas libs)
+
+- PHP
+
+- .NET
+
+- ASP
+
+- Java
+
+- Ruby (on Rails)
+
+- Python
+
+- Perl
+
+- C/C++/C#
+
+### Primeira Aplicação Web
+
 
